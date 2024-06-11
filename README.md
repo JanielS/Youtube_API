@@ -1,9 +1,9 @@
 # Descrição do projeto
 
-O objetivo do projeto é realizar uma itensa Exploração de dados - Exploratory Data Analysis - EDA
+O objetivo do projeto é obter informações detalhadas de todos os videos de vários canais do Youtube. Em sequida, esses dados serão tratados e armazenados em um Banco de dados para futuras análises.
 
 ## Inspiration
-Os "inshigts" obtidos através da análises de interações das pessoas com os aplicativos disponíves na Google Play Store são altamente relevantes para aquelas empresas que buscam não apenas atributos para seus novos Apps como também direcionar seus esforços e obter um posicionamento estratégico.
+Esse projeto dará início a outro maior que objetiva analisar se o crescimento dos diferentes meios de comunicação sobre finanças tem de fato impactado o comportamento das pessoas com relação ao dinheiro ou servem apenas como mais uma forma de entreterdimento.
 
 ## Etapas
 ![image](https://github.com/JanielS/Youtube_API/blob/main/Images/Diagram_YoutubeAPI.png)<br>
@@ -36,4 +36,9 @@ from getpass import getpass  # Não exibir a senha
 
 ## Autor
 > Janiel Santos. - [Github](https://github.com/JanielS) - Maio 2024
+<br>
+<br>
+<br>
+
+![image](https://github.com/JanielS/Youtube_API/blob/main/Images/Loading.png)
 
