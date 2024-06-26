@@ -1,6 +1,6 @@
 # Descrição do projeto
 
-O objetivo do projeto é obter informações detalhadas de todos os videos de vários canais do Youtube. Em sequida, esses dados serão tratados e armazenados em um Banco de dados para futuras análises.
+O objetivo do projeto é obter informações detalhadas de todos os videos de vários canais do Youtube utilizando a própria API da plataforma. 
 
 ## Inspiration
 Esse projeto dará início a outro maior que objetiva analisar se o crescimento dos diferentes meios de comunicação sobre finanças tem de fato impactado o comportamento das pessoas com relação ao dinheiro ou servem apenas como mais uma forma de entreterdimento.
@@ -39,6 +39,3 @@ from getpass import getpass  # Não exibir a senha
 <br>
 <br>
 <br>
-
-![image](https://github.com/JanielS/Youtube_API/blob/main/Images/Loading.png)
-
